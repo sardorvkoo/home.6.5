@@ -1,0 +1,79 @@
+.app{
+    display: flex;
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 1120px;
+    height: 500px;
+    text-decoration: none;
+}
+.hrefs{
+    width: 20%;
+    height: 100%;
+}
+.ul{
+    list-style: none;
+    margin-top: 15px;
+}
+.list{
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+.link{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+    transition-duration: 0.4s;
+}
+.link:hover{
+    color: green;
+    transition: 0.6s;
+    cursor: pointer;
+}
+.tommy{
+    width: 80%;
+    height: 100%;
+}
+.h1{
+    font-family: sans-serif;
+    font-weight: 540;
+    margin: 10px 0px 20px 5px;
+}
+.sp{
+    font-family: sans-serif;
+    margin-left: 5px;
+    background-color: rgb(183, 190, 199);
+    padding: 0.5rem 0.75rem;
+    border-radius: .25rem;
+}
+.date{
+    font-family: sans-serif;
+    color: #64748b;
+    margin: 25px 0px 0px 5px;
+}
+.box{
+    width: 856px;
+    height: 50px;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    column-gap: 2rem;
+    align-items: center;
+    margin-bottom: 1.25rem;
+    margin: 30px 0px 0px 5px;
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+.p{
+    font-family: sans-serif;
+    color: #334155;
+}
+.bigdrop{
+    width: 80%;
+    height: 100%;
+}
+.cuker{
+    width: 80%;
+    height: 100%;
+}
